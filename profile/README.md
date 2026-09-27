@@ -14,6 +14,6 @@ ORGA Press는 여러 매거진을 만들고 발행하는 곳입니다.
 
 ## Magazines
 
-| | 매거진 | 채널 |
+| | 매거진 | Instagram |
 |---|---|---|
-| 🟨 | **TRACE** · 사건의 전말 | [Instagram @tracemag.kr](https://www.instagram.com/tracemag.kr/) |
+| 🟨 | **TRACE** · 사건의 전말 | [@tracemag.kr](https://www.instagram.com/tracemag.kr/) |
